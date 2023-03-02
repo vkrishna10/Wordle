@@ -16,7 +16,7 @@ public class Wordle{
 			exit = setDisplay(guess, "icing");
 
 			if(exit){
-				i = 20;
+				break;
 			}
 		}
 
